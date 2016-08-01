@@ -127,3 +127,5 @@ ENV/
 
 # JIRA plugin
 atlassian-ide-plugin.xml
+
+config.py
